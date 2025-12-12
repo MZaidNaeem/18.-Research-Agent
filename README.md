@@ -1,5 +1,5 @@
 # 18.-Research-Agent
-![img](langgraph_pipeline.png)
+![img](Langgraph_pipeline.png)
 
 🧠 Project Overview
 ✨ Built a Research Agent that takes away the hassle of spending hours browsing different websites, filtering information, and deciding what’s useful. Now, my agent does the research for you — gathering the right insights, organizing them clearly, and saving valuable time.
